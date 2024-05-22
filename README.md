@@ -44,7 +44,12 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+# Car Dealship
 
+```bash
+# Populate DB
+http://localhost:3000/seed
+```
 ## Test
 
 ```bash
